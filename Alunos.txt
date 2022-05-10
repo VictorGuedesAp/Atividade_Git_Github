@@ -2,4 +2,5 @@ Nome		Nota
 
 Victor		1
 Lucas		2
-Mauricio		5
+Mauricio	5
+Ana		4
